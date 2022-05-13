@@ -1,0 +1,13 @@
+S11 Activity
+
+>> Create an activity folder with index.html
+>> Copy the template for the html file from your Boodle Notes
+>> Apply Bootstrap to the project by adding all the dependencies.
+
+>> Apply Bootstrap classes to the Navbar Section with the following layout:
+	>> The elements must appear side by side with a space between the name of the developer and the links to the other pages.
+
+>> Apply Bootstrap classes to the outer div tag of the Main Content Section to  create a fluid container and add a padding.
+
+>> Send both screenshot in our Hangouts (include your whole screen)
+

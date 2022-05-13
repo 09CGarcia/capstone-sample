@@ -1,0 +1,63 @@
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/*Bootstrap Font*/
+body {
+	font-family: "Helvetica Neue", sans-serif;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.h-25 {
+	height: 25%;
+}
+
+.p-3 {
+	padding: 15px;
+}
+
+.bg-success {
+	background-color: forestgreen;
+}
+
+.bg-warning {
+	background-color: orange;
+}
+
+.bg-danger {
+	background-color: darkred;
+}
+
+.bg-secondary {
+	background-color: slategray;
+}
+
+/*CSS and Bootstrap Flexbox*/
+.d-flex {
+	display: flex;
+}
+
+/*manipulation of elements horizontally*/
+.justify-content-center {
+	justify-content: center;
+}
+
+/*manipulation of elements vertically*/
+.align-items-center {
+	align-items: center;
+}
+
+/*manipulation of how elements are positioned inside a flex container*/
+.flex-column{
+	flex-direction: column;
+}
+
+.flex-column-reverse {
+	flex-direction: column-reverse;
+}
